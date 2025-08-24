@@ -1,0 +1,29 @@
+{
+    "cuentas": [
+      {
+        "numero_cuenta": "9876543210",
+        "nombre": "Principal",
+        "saldo_disponible": 500.40
+      },
+      {
+        "numero_cuenta": "1020304050",
+        "nombre": "Corriente",
+        "saldo_disponible": 250.55
+      },
+	  {
+        "numero_cuenta": "0102030405",
+        "nombre": "Ahorros",
+        "saldo_disponible": 600.01
+      },
+	  {
+        "numero_cuenta": "1234598760",
+        "nombre": "Transaccional",
+        "saldo_disponible": 3.49
+      },
+	  {
+        "numero_cuenta": "0220200124",
+        "nombre": "Corriente",
+        "saldo_disponible": 74.85
+      },
+    ]
+  }

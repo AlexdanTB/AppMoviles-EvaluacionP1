@@ -1,0 +1,173 @@
+{
+    "transacciones": [
+      {
+        "numero_cuenta": "123456789",
+        "titular": "Juan Perez",
+        "fecha": "2023-07-15",
+        "descripcion": "Depósito",
+        "monto": 1000.00,
+        "saldo_actual": 1000.00
+      },
+      {
+        "numero_cuenta": "123456789",
+        "titular": "Juan Perez",
+        "fecha": "2023-07-18",
+        "descripcion": "Compra en tienda",
+        "monto": -350.00,
+        "saldo_actual": 650.00
+      },
+      {
+        "numero_cuenta": "123456789",
+        "titular": "Juan Perez",
+        "fecha": "2023-07-20",
+        "descripcion": "Transferencia recibida",
+        "monto": 500.00,
+        "saldo_actual": 1150.00
+      },
+      {
+        "numero_cuenta": "123456789",
+        "titular": "Juan Perez",
+        "fecha": "2023-07-22",
+        "descripcion": "Retiro de cajero automático",
+        "monto": -200.00,
+        "saldo_actual": 950.00
+      },
+      {
+        "numero_cuenta": "123456789",
+        "titular": "Juan Perez",
+        "fecha": "2023-07-25",
+        "descripcion": "Pago de factura",
+        "monto": -80.00,
+        "saldo_actual": 870.00
+      },
+      {
+        "numero_cuenta": "987654321",
+        "titular": "Maria Gomez",
+        "fecha": "2023-07-15",
+        "descripcion": "Depósito",
+        "monto": 1500.00,
+        "saldo_actual": 1500.00
+      },
+      {
+        "numero_cuenta": "987654321",
+        "titular": "Maria Gomez",
+        "fecha": "2023-07-18",
+        "descripcion": "Compra en línea",
+        "monto": -250.00,
+        "saldo_actual": 1250.00
+      },
+      {
+        "numero_cuenta": "987654321",
+        "titular": "Maria Gomez",
+        "fecha": "2023-07-21",
+        "descripcion": "Transferencia enviada",
+        "monto": -400.00,
+        "saldo_actual": 850.00
+      },
+      {
+        "numero_cuenta": "987654321",
+        "titular": "Maria Gomez",
+        "fecha": "2023-07-24",
+        "descripcion": "Retiro de cajero automático",
+        "monto": -100.00,
+        "saldo_actual": 750.00
+      },
+      {
+        "numero_cuenta": "987654321",
+        "titular": "Maria Gomez",
+        "fecha": "2023-07-28",
+        "descripcion": "Pago de tarjeta de crédito",
+        "monto": -350.00,
+        "saldo_actual": 400.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-07-15",
+        "descripcion": "Depósito",
+        "monto": 800.00,
+        "saldo_actual": 800.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-07-19",
+        "descripcion": "Compra en tienda",
+        "monto": -120.00,
+        "saldo_actual": 680.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-07-23",
+        "descripcion": "Transferencia recibida",
+        "monto": 300.00,
+        "saldo_actual": 980.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-07-27",
+        "descripcion": "Retiro de cajero automático",
+        "monto": -200.00,
+        "saldo_actual": 780.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-07-30",
+        "descripcion": "Compra en línea",
+        "monto": -50.00,
+        "saldo_actual": 730.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-08-01",
+        "descripcion": "Pago de factura",
+        "monto": -100.00,
+        "saldo_actual": 630.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-08-05",
+        "descripcion": "Depósito",
+        "monto": 400.00,
+        "saldo_actual": 1030.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-08-10",
+        "descripcion": "Compra en tienda",
+        "monto": -75.00,
+        "saldo_actual": 955.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-08-15",
+        "descripcion": "Pago de factura",
+        "monto": -120.00,
+        "saldo_actual": 835.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-08-20",
+        "descripcion": "Depósito",
+        "monto": 600.00,
+        "saldo_actual": 1435.00
+      },
+      {
+        "numero_cuenta": "222222222",
+        "titular": "Ana Rodriguez",
+        "fecha": "2023-08-25",
+        "descripcion": "Compra en línea",
+        "monto": -200.00,
+        "saldo_actual": 1235.00
+      }
+    ]
+  }
+  
